@@ -54,20 +54,20 @@ global.language = indonesia //change indonesia to english if you don't understan
 
 // Other
 // Other
-global.botname = "Dimasbot" //namabot kalian
+global.botname = "Dimas Assistant" //namabot kalian
 global.ownername = "Dimas" //nama kalian
-global.myweb = "https://s.id/zeeoneofc" //bebas asal jan hapus
+global.myweb = "https://juraganweb.co.id/" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/@ZeeoneOfc" //bebas asal jan hapus
-global.myweb2 = "https://s.id/zeeoneofc" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
+global.myweb2 = "https://juraganweb.co.id/" //bebas
+global.email = "dimashendriawann@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Pontianak' //  timezone wib
 global.premium_fitur = ["ai", "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", "chatgpt"] //tambahin aja sendiri, soalnya gk semua org mau fiturnya premium jadi gw buat kyk gini aja, biar bisa custom fitur mana aja yang bakal di jadiin premium
 global.badword_list = ["asu", "anjir"] //tambahin sendiri kata² nya, gunakan huruf kecil
-global.premium = ['6281553700195'] //premium user
-global.owner = ["6281553700195", "62887435047326"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = owner[081553700195] + "@s.whatsapp.net"
-global.ownernomerr = "+"+6281553700195 //tidak perlu di edit
+global.premium = ['6289694556588'] //premium user
+global.owner = ["6289694556588", "62887435047326"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = owner[089694556588] + "@s.whatsapp.net"
+global.ownernomerr = "+"+6289694556588 //tidak perlu di edit
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.tag_owner = "./tag_owner.mp3" // audio ini akan di kirim apabila ada member yang menandai (tag) owner bot 
